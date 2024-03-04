@@ -42,5 +42,12 @@ Se adjunta una colección de Postman con los tests automatizados de las APIs par
 
 Los documentos adicionales relacionados con el proyecto, como informes detallados, gráficos o registros de pruebas, se encuentran disponibles en el siguiente enlace de Google Drive: [Link](https://drive.google.com/drive/folders/1T0J0LUw5kNulCt5qlf5a8cyUwV1TWuR2?usp=sharing).
 
+
+ [Reporte unificado de las pruebas](REPORTE-UNIFICADO-PRUEBAS-VALERIA-SANCHEZ.pdf).
+ [Reporte API TEST](TEST-DE-API-Valeria-Sanchez.pdf).
+
+
+
+
 ¡Gracias por revisar este repositorio!
 
