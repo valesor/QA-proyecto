@@ -1,8 +1,8 @@
 # QA-proyecto
 
-# Proyecto XYZ - QA
+# Proyecto WEB TIENNDA CELULARES Y RESPUESTOS - QA
 
-Este repositorio contiene los archivos y recursos relacionados con el proyecto XYZ, con un enfoque especial en las pruebas y calidad del software.
+Este repositorio contiene los archivos y recursos relacionados con el proyecto de una tienda de elementos de electronica, con un enfoque especial en las pruebas y calidad del software.
 
 ## Contenido
 
